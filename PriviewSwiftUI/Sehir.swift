@@ -19,3 +19,6 @@ struct Sehir :Identifiable {
 let istanbul = Sehir(isim: "Sehir : Istanbul", gorsel: "istanbul", bolge: "Bolge : Marmara")
 let ankara = Sehir(isim: "Sehir : Ankara", gorsel: "ankara", bolge: "Bolge : Ic Anadolu")
 let izmir = Sehir(isim: "Sehir : Izmir", gorsel: "izmir", bolge: "Bolge : Ege")
+
+
+let sehirListesi = [izmir,istanbul,ankara]
