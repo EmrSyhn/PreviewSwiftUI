@@ -11,6 +11,8 @@
 		044EB5A62B1DFF6200CB0C44 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 044EB5A52B1DFF6200CB0C44 /* ContentView.swift */; };
 		044EB5A82B1DFF6400CB0C44 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 044EB5A72B1DFF6400CB0C44 /* Assets.xcassets */; };
 		044EB5AB2B1DFF6400CB0C44 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 044EB5AA2B1DFF6400CB0C44 /* Preview Assets.xcassets */; };
+		04C23BF52B1E080200AD26D9 /* ListeRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C23BF42B1E080200AD26D9 /* ListeRow.swift */; };
+		04C23BF72B1E0AC600AD26D9 /* Sehir.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C23BF62B1E0AC600AD26D9 /* Sehir.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		044EB5A52B1DFF6200CB0C44 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		044EB5A72B1DFF6400CB0C44 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		044EB5AA2B1DFF6400CB0C44 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		04C23BF42B1E080200AD26D9 /* ListeRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListeRow.swift; sourceTree = "<group>"; };
+		04C23BF62B1E0AC600AD26D9 /* Sehir.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sehir.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				044EB5A32B1DFF6200CB0C44 /* PriviewSwiftUIApp.swift */,
 				044EB5A52B1DFF6200CB0C44 /* ContentView.swift */,
+				04C23BF42B1E080200AD26D9 /* ListeRow.swift */,
+				04C23BF62B1E0AC600AD26D9 /* Sehir.swift */,
 				044EB5A72B1DFF6400CB0C44 /* Assets.xcassets */,
 				044EB5A92B1DFF6400CB0C44 /* Preview Content */,
 			);
@@ -137,6 +143,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04C23BF52B1E080200AD26D9 /* ListeRow.swift in Sources */,
+				04C23BF72B1E0AC600AD26D9 /* Sehir.swift in Sources */,
 				044EB5A62B1DFF6200CB0C44 /* ContentView.swift in Sources */,
 				044EB5A42B1DFF6200CB0C44 /* PriviewSwiftUIApp.swift in Sources */,
 			);
